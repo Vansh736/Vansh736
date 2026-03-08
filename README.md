@@ -39,7 +39,7 @@ Currently building practical cybersecurity labs and security detection projects 
 
 ## 📚 Currently Learning
 
-* 🛡️ Security Operations Center (SOC) methodologies
+* 🛡️ Security Operations & Defensive Security Practices
 * 🔎 Threat detection and log analysis techniques
 * 🌐 Network security fundamentals
 * ⚙️ Linux system security and monitoring
