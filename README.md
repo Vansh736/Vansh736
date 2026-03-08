@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Vansh Tiwari
 
-<!--
-**Vansh736/Vansh736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🔐 Interested in Cybersecurity & Security Analysis  
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech Computer Science Student
+- 🛡️ Interested in Cybersecurity
+- 🐧 Learning Linux & Security Tools
+- 📚 Currently improving programming and security fundamentals
+
+
+## 🛠️ Skills & Tools
+
+- Linux
+- Python
+- Networking
+- Git & GitHub
+- Splunk (SIEM Basics)
+
+
+
+## 📚 Currently Learning
+
+- Cybersecurity Fundamentals
+- SOC Analysis
+- Threat Detection
+- Linux Security
+
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vansh736&show_icons=true&theme=tokyonight)
+
