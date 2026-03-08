@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Vansh Tiwari</h1>
+<h3 align="center">🔐 Cybersecurity Enthusiast | SOC Analyst Learner | Linux & Splunk</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F72E&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;SOC+Analyst+Learner;Linux+%7C+Splunk+%7C+Python;Building+Security+Detection+Projects" />
+</p>
+
+
 # 👋 Hi, I'm Vansh Tiwari
 
 🔐 **Cybersecurity Enthusiast | SOC & Threat Detection Learner**
