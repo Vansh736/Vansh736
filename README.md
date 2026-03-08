@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vansh736&label=Profile%20views&color=0e75b6&style=flat" />
 <img src="https://img.shields.io/badge/Cybersecurity-Learner-green" />
 <img src="https://img.shields.io/badge/Linux-User-blue" />
 <img src="https://img.shields.io/badge/Splunk-SIEM-orange" />
