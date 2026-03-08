@@ -1,32 +1,53 @@
-# Hi 👋 I'm Vansh Tiwari
+# 👋 Hi, I'm Vansh Tiwari
 
-💻 Computer Science Student  
-🔐 Interested in Cybersecurity & Security Analysis  
+🔐 **Cybersecurity Enthusiast | SOC & Threat Detection Learner**
+💻 Computer Science Student building skills in **security monitoring, log analysis, and defensive security practices**
 
-## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 🛡️ Interested in Cybersecurity
-- 🐧 Learning Linux & Security Tools
-- 📚 Currently improving programming and security fundamentals
+
+## 🧑‍💻 About Me
+
+* 🎓 B.Tech Computer Science Student
+* 🛡️ Developing expertise in **Cybersecurity, SOC Analysis, and Threat Detection**
+* 🐧 Working with **Linux systems and security tooling**
+* 🔍 Analyzing **system and network logs to identify suspicious behavior and potential threats**
+* 📚 Continuously strengthening knowledge in **network security and incident response**
+
 
 
 ## 🛠️ Skills & Tools
 
-- Linux
-- Python
-- Networking
-- Git & GitHub
-- Splunk (SIEM Basics)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-005571?style=for-the-badge)
 
 
 
 ## 📚 Currently Learning
 
-- Cybersecurity Fundamentals
-- SOC Analysis
-- Threat Detection
-- Linux Security
+* 🛡️ Security Operations Center (SOC) methodologies
+* 🔎 Threat detection and log analysis techniques
+* 🌐 Network security fundamentals
+* ⚙️ Linux system security and monitoring
 
 
+
+## 📊 GitHub Stats
+
+![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vansh736\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Vansh736\&theme=tokyonight)
+
+
+
+## 📫 Contact
+
+💼 GitHub: https://github.com/Vansh736
+📍 Rajasthan, India
+
+
+
+⭐ *Exploring attack patterns, strengthening defensive security skills, and continuously learning cybersecurity.*
 
