@@ -34,20 +34,5 @@
 
 
 
-## 📊 GitHub Stats
-
-![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vansh736\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Vansh736\&theme=tokyonight)
-
-
-
-## 📫 Contact
-
-💼 GitHub: https://github.com/Vansh736
-📍 Rajasthan, India
-
-
-
 ⭐ *Exploring attack patterns, strengthening defensive security skills, and continuously learning cybersecurity.*
 
