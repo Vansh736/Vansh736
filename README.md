@@ -37,7 +37,7 @@ Currently building practical cybersecurity labs and security detection projects 
 
 
 
-## 📚 Currently Learning
+## 📚 Areas I'm Currently Exploring
 
 * 🛡️ Security Operations & Defensive Security Practices
 * 🔎 Threat detection and log analysis techniques
